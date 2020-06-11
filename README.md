@@ -1,1 +1,1 @@
-# chargebee_etl_parsers
+# ETL Parsers for ChargeBee using Python and Sqlite
